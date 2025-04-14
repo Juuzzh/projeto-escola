@@ -103,6 +103,9 @@
       font-weight: bold;
       cursor: pointer;
     }
+      .next-btn:hover {
+      background-color: #e0435f;
+    }
   </style>
 </head>
 <body>
